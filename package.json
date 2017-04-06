@@ -1,0 +1,24 @@
+{
+  "name": "fixed-node-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdebiedma/liri-node-app-fixed.git"
+  },
+  "author": "Juan DeBiedma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdebiedma/liri-node-app-fixed/issues"
+  },
+  "homepage": "https://github.com/jdebiedma/liri-node-app-fixed#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
